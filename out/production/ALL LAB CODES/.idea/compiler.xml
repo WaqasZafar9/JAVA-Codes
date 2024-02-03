@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ModernLogin" />
+        <module name="lab8" />
+        <module name="multithreading" />
+        <module name="socketprogramming" />
+        <module name="lastlab1" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
